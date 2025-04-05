@@ -1,0 +1,1 @@
+print(min(max(False,-7.5,-7),2,1,9))
